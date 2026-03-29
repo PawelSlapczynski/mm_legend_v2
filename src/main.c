@@ -23,7 +23,7 @@ void main(void)
     /* Place your initialisation code here. */
     diag_task_init();
     vTaskStartScheduler();
-
+	// druga zmiana 
     while (1)
         ;
 }
