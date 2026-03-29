@@ -26,6 +26,6 @@ void main(void)
 
 //zabawy z gitem s
 //inny sposób dodania zmoan do commita
-    while (1)
-        ;
+    while (1);
+	//dodanie taga
 }
