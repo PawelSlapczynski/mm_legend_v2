@@ -24,6 +24,5 @@ void main(void)
     diag_task_init();
     vTaskStartScheduler();
 	// druga zmiana 
-    while (1)
-        ;
+    while (1);
 }
