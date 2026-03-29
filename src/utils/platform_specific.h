@@ -3,6 +3,7 @@
  * Author:  GAndaLF
  * Brief:   Platform specific definitions.
  */
+ //trzecia zmiana 
 
 #ifndef _PLATFORM_SPECIFIC_H_
 #define _PLATFORM_SPECIFIC_H_

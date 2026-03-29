@@ -19,7 +19,7 @@
 void main(void)
 {
     core_init();
-
+	//pierwsza zmiana 
     /* Place your initialisation code here. */
     diag_task_init();
     vTaskStartScheduler();
