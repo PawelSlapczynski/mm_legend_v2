@@ -23,7 +23,9 @@ void main(void)
     /* Place your initialisation code here. */
     diag_task_init();
     vTaskStartScheduler();
-	// druga zmiana 
+
+//zabawy z gitem s
+//inny sposób dodania zmoan do commita
     while (1)
         ;
 }
