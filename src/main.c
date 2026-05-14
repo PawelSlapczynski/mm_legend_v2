@@ -28,4 +28,8 @@ void main(void)
 //inny sposób dodania zmoan do commita
     while (1);
 	//dodanie taga
+	//dodanie tej zmiany do poprzeniego commita
+	//dodanie drugiej zmiany 
 }
+
+
