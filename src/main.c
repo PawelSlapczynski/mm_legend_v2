@@ -32,5 +32,5 @@ void main(void)
 	//dodanie drugiej zmiany 
 	//dodanie innej zmiany do konfliku 
 }
-
+//jakaś losowa zmiana
 
