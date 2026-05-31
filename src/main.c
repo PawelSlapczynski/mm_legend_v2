@@ -30,7 +30,9 @@ void main(void)
 	//dodanie taga
 	//dodanie tej zmiany do poprzeniego commita
 	//dodanie drugiej zmiany 
+	//zmiany do konfliku
 	//dodanie innej zmiany do konfliku 
+
 }
 //jakaś losowa zmiana
 
