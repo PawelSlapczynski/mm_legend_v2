@@ -32,7 +32,7 @@ void main(void)
 	//dodanie drugiej zmiany 
 	//zmiany do konfliku
 	//dodanie innej zmiany do konfliku 
-
+	//zmiany di stasha
 }
 //jakaś losowa zmiana
 
